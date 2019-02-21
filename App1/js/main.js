@@ -20,3 +20,12 @@ var bear = {
     noisy: true,
     deadly: true
 };
+
+var basketball = [
+    'Golden state warrior',
+    'stephen crurry',
+    'green',
+    'durant',
+    'jonnathan'
+];
+
