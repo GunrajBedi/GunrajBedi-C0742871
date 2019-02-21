@@ -10,7 +10,7 @@
 };
 
 
-var bear{
+var bear = {
     genus: "uranus",
     species: "arctos",
     commonName: "brown bear",
